@@ -3,8 +3,7 @@
  
  
 ## Como funciona:
-   O programa irá pegar uma base de CNPJ's de uma planilha do Excel e fará uma pesquisa no site da Receita federal para extrair dados. A partir desses dados, uma nova planilha será montada.
-  
+   O programa irá pegar uma base de CNPJ's de uma planilha do Excel e fará uma pesquisa no site da Receita federal para extrair dados, com isso, uma nova planilha será montada contendo as informações coletadas
   
 ## Como utilizar o programa: 
   1. Na linha 9, escrever o local da planilha com os CNPJ's que serão pesquisados no site da Receita Federal.
