@@ -13,7 +13,7 @@
   3. Na linha 19, colocar de 'column' para a coluna que você deseja que os dados sejam extraidos.
       * Por exemplo: `column = 1` para coluna A, `column = 2` para a coluna B etc.
   4. Na linha 65, escolher o nome da planinha com as informações extraidas do site da Receita Federal.
-      * Por exemplo: `arquivo_excel.save("Informações PDG.xlsx")`
+      - Por exemplo: `arquivo_excel.save("Informações PDG.xlsx")`
  
  
 ## Bibliotecas necessárias 
