@@ -1,9 +1,9 @@
 # Projeto
-  Projeto desenvolvido em Python com o intuito de coletar dados sobre a empresa PDG e suas empresas satélite.
+    Projeto desenvolvido em Python com o intuito de coletar dados sobre a empresa PDG e suas empresas satélite.
  
  
 ## Como funciona:
-  O programa irá pegar uma base de CNPJ's de uma planilha do Excel e fará uma pesquisa no site da Receita federal para extrair dados. A partir desses dados, uma nova planilha será montada.
+    O programa irá pegar uma base de CNPJ's de uma planilha do Excel e fará uma pesquisa no site da Receita federal para extrair dados. A partir desses dados, uma nova planilha será montada.
   
   
 ## Como utilizar o programa: 
